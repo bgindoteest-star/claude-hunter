@@ -1,5 +1,9 @@
 # claude-hunter
 
+![tests](https://github.com/bgindoteest-star/claude-hunter/actions/workflows/tests.yml/badge.svg)
+![license](https://img.shields.io/badge/license-MIT-blue.svg)
+![python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
+
 CLI hunter link referral/invite Claude Pro multi-source. Memindai sumber publik
 (urlscan.io, GitHub, Reddit, DuckDuckGo, Telegram, Internet Archive/Common
 Crawl), mengekstrak link `claude.ai/referral|invite|claim|promo|credit`,
