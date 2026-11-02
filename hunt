@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# hunt — wrapper CLI untuk hunt_cli.py (pakai venv project)
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+exec "$DIR/.venv/bin/python3" "$DIR/hunt_cli.py" "$@"

@@ -1,0 +1,17 @@
+# env & secrets
+.env
+
+# python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# runtime state (personal)
+*.log
+seen_links.txt
+found_links.jsonl
+hunt_findings.jsonl
+found_links_export.*
+
+.DS_Store
